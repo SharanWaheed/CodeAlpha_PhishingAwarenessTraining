@@ -1,5 +1,7 @@
 Phishing Awareness Training - Summary
+
 Overview
+
 This training module is designed to educate users about phishing attacks, including what they are, why they are dangerous, and how to recognize and avoid them. Phishing is a form of cyberattack where attackers disguise themselves as trustworthy sources to deceive individuals into providing sensitive information, which can lead to serious financial or personal harm.
 
 Content Outline
